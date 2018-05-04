@@ -20,3 +20,14 @@ rtbt.ino
 @[34](convert to mV)
 @[35-36](send voltage and timestamp over serial Bluetooth)
 @[37](delay to avoid serial saturation)
+
+---
+
+### Matlab Control
+
+bt_ecg.m
+
+![Press Down Key](img/down-arrow.png)
+
++++?code=bt_ecg.m&lang=Matlab
+
