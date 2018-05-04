@@ -5,9 +5,9 @@
 
 ### Arduino Setup
 
----
-
 ![Pins](img/diagram.png)
+
+---
 
 ### Arduino Control
 
