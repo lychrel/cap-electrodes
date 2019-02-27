@@ -1,7 +1,7 @@
 # cap-electrodes
 [![DOI](https://zenodo.org/badge/132076134.svg)](https://zenodo.org/badge/latestdoi/132076134)
 
-Capacitive Electrodes team for ECE 522 (Spring 2018)
+Code for Non-Contact Capacitive Electrocardiograms (group project for [ECE 522](https://research.ece.ncsu.edu/bmil/bme-ece-522-medical-instrumentation/), Spring 2018)
 
 ### Scripts
 - `AT.ino`:   for configuring HC-05 Bluetooth module via AT commands
@@ -20,3 +20,6 @@ Capacitive Electrodes team for ECE 522 (Spring 2018)
 - upload `rtbt.ino`
 - reconnect TX/RX
 - run `bt_ecg.m`
+
+### More Information
+- See `final_report.pdf` for the project report 
