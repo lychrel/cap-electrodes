@@ -1,3 +1,4 @@
+![eeg](img/sgEEG.png)
 # cap-electrodes
 [![DOI](https://zenodo.org/badge/132076134.svg)](https://zenodo.org/badge/latestdoi/132076134)
 
